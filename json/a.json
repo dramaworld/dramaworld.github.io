@@ -1,0 +1,38 @@
+{
+  "Servers": [
+	    
+    {
+      "mp4upload": "https?:\\/\\/(www\\.)?(mp4upload)",
+      "filerio": "https?:\\/\\/(www\\.)?(filerio)",
+      "sendvid": "https?:\\/\\/(www\\.)?(sendvid)",
+      "okru": "https?:\\/\\/(www.|m.)?(ok)\\.[^\\/,^\\.]{2,}\\/(video|videoembed)\\/.+",
+      "solidfiles": "https?:\\/\\/(www\\.)?(solidfiles)",
+	  "vidoza": "https?:\\/\\/(www\\.)?(vidoza)",
+	  "fembed": "https?:\\/\\/(www\\.)?(fembed|vcdn|feurl|femax20)",
+	  "gounlimited": "https?:\\/\\/(www\\.)?(gounlimited)",
+	  "videoBIN": "https?:\\/\\/(www\\.)?(videobin)",
+	  "vudeo": "https?:\\/\\/(www\\.)?(vudeo)",
+	  "vidhd": "https?:\\/\\/(www\\.)?(vidhd|oktube)",
+	  "uppom": "uppom|arabseed|upbbom|uppbom|uppoom",
+	  "sevenUp": "https?:\\/\\/(www\\.)?(7-up)",
+	  "sandUp": "https?:\\/\\/(www\\.)?(sandup)",
+	  "govid": "https?:\\/\\/(www\\.)?(govid)",
+	  "uqlaod": "https?:\\/\\/(www\\.)?(uqload)",
+	  "akwam": "https?:\\/\\/(www\\.)?(akwam)",
+	  "vidbm": "https?:\\/\\/(www\\.)?(vidbm|vidbem|vidbom|vedbom|vedboom)",
+	  "ydBox": "https?:\\/\\/(www\\.)?(youdbox)",
+	  "videoBee": "https?:\\/\\/(www\\.)?(thevideobee)",
+	  "moshahda": "https?:\\/\\/(www\\.)?(moshahda)",
+	  "vidShare": "https?:\\/\\/(www\\.)?(vidshare|vidshar|vedshar|vedshaar)",
+	  "watchVideo": "https?:\\/\\/(www\\.)?(watchvideo)",
+	  "vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|vidoba)",
+	  "vidia": "https?:\\/\\/(www\\.)?(vidia)",
+	  "movs4U": "https?:\\/\\/(www\\.)?(movs4u)",
+	  "asiaDrama": "https?:\\/\\/(www\\.)?(asiatvplayer)",
+	  "uptostream": "https?:\\/\\/(www\\.)?(uptostream|uptobox)"
+
+      
+    }
+
+  ]
+}
