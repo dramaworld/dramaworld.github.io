@@ -25,7 +25,7 @@
 	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|vidoba)",
 	"vidia": "https?:\\/\\/(www\\.)?(vidia)",
 	"movs4U": "https?:\\/\\/(www\\.)?(movs4u)",
-	"asiaDrama": "https?:\\/\\/(www\\.)?(asiatvplayer)"
+	"asiaDrama": "https?:\\/\\/(www\\.)?(asiatvplayer)",
 	"myCima": "mycima"
 
 }
