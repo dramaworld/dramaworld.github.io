@@ -28,5 +28,7 @@
 	"asiaDrama": "https?:\\/\\/(www\\.)?(asiatvplayer)",
 	"myCima": "mycima",
 	"mycimaUppom": "uppbom"
+	"kobaTube": "https?:\\/\\/(www\\.)?(kobatube)",
+	"letsupload": "https?:\\/\\/(www\\.)?(letsupload)"
 
 }
