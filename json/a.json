@@ -29,6 +29,7 @@
 	"myCima": "mycima",
 	"mycimaUppom": "uppbom",
 	"kobaTube": "https?:\\/\\/(www\\.)?(kobatube)",
-	"letsupload": "https?:\\/\\/(www\\.)?(letsupload)"
+	"letsupload": "https?:\\/\\/(www\\.)?(letsupload)",
+	"myVid": "https?:\\/\\/(www\\.)?(myviid)"
 
 }
