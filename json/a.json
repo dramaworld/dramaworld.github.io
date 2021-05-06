@@ -31,6 +31,7 @@
 	"kobaTube": "https?:\\/\\/(www\\.)?(kobatube)",
 	"letsupload": "https?:\\/\\/(www\\.)?(letsupload)",
 	"myVid": "https?:\\/\\/(www\\.)?(myviid)",
-	"vidspeed": "https?:\\/\\/(www\\.)?(vidspeeds)"
+	"vidspeed": "https?:\\/\\/(www\\.)?(vidspeeds)",
+	"samaUp": "https?:\\/\\/(www\\.)?(sama-share)",
 
 }
