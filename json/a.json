@@ -28,10 +28,10 @@
 	"asiaDrama": "https?:\\/\\/(www\\.)?(asiatvplayer)",
 	"myCima": "mycima",
 	"mycimaUppom": "uppboom",
-	"kobaTube": "https?:\\/\\/(www\\.)?(kobatube)",
+	"kobaTube": "https?:\\/\\/(www\\.)?(kobatube|koobatube)",
 	"letsupload": "https?:\\/\\/(www\\.)?(letsupload)",
 	"myVid": "https?:\\/\\/(www\\.)?(myviid)",
-	"vidspeed": "https?:\\/\\/(www\\.)?(vidspeeds)",
+	"vidspeed": "https?:\\/\\/(www\\.)?(vidspeeds|vidspeed)",
 	"samaUp": "https?:\\/\\/(www\\.)?(sama-share)"
 
 }
