@@ -32,6 +32,7 @@
 	"letsupload": "https?:\\/\\/(www\\.)?(letsupload)",
 	"myVid": "https?:\\/\\/(www\\.)?(myviid)",
 	"vidspeed": "https?:\\/\\/(www\\.)?(vidspeeds|vidspeed)",
-	"samaUp": "https?:\\/\\/(www\\.)?(sama-share)"
+	"samaUp": "https?:\\/\\/(www\\.)?(sama-share)",
+	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed)"
 
 }
