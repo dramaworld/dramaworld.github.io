@@ -36,6 +36,7 @@
 	"samaUp": "https?:\\/\\/(www\\.)?(sama-share)",
 	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed)",
 	"voe": "https?:\\/\\/(www\\.)?(voe.sx)",
-	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)"
+	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)",
+	"ninjaStream": "https?:\\/\\/(www\\.)?(ninjastream)"
 
 }
