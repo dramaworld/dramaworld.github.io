@@ -34,7 +34,7 @@
 	"myVid": "https?:\\/\\/(www\\.)?(myviid)",
 	"vidspeed": "https?:\\/\\/(www\\.)?(vidspeeds|vidspeed)",
 	"samaUp": "https?:\\/\\/(www\\.)?(sama-share)",
-	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed|tubesb)",
+	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed|tubesb|playersb)",
 	"voe": "https?:\\/\\/(www\\.)?(voe.sx)",
 	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)",
 	"hdUp": "https?:\\/\\/(www\\.)?(hdup7)"
