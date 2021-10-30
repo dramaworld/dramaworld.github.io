@@ -6,7 +6,7 @@
 	"okru": "https?:\\/\\/(www.|m.)?(ok)\\.[^\\/,^\\.]{2,}\\/(video|videoembed)\\/.+",
 	"solidfiles": "https?:\\/\\/(www\\.)?(solidfiles)",
 	"vidoza": "https?:\\/\\/(www\\.)?(vidoza)",
-	"fembed": "https?:\\/\\/(www\\.)?(fembed|vcdn|feurl|femax20|moviedor|aflam|dutrag)\\.[^\\/,^\\.]{2,}\\/(v|f)\\/.+",
+	"fembed": "https?:\\/\\/(www\\.)?(fembed|vcdn|feurl|femax20|moviedor|aflam|dutrag|fplayer)\\.[^\\/,^\\.]{2,}\\/(v|f)\\/.+",
 	"gounlimited": "https?:\\/\\/(www\\.)?(gounlimited)",
 	"videoBIN": "https?:\\/\\/(www\\.)?(videobin)",
 	"vudeo": "https?:\\/\\/(www\\.)?(vudeo)",
