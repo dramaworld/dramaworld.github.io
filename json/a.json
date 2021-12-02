@@ -24,7 +24,7 @@
 	"vidShare": "https?:\\/\\/(www\\.)?(vidshaaaaare)",
 	"watchVideo": "https?:\\/\\/(www\\.)?(watchvideo)",
 	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|vidoba|vidroba|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare)",
-	"vidia": "https?:\\/\\/(www\\.)?(vidia||vidbm|vidbem|vidbom|vidbeem|vedbom|vedboom|vedpom|extremenow|userload)",
+	"vidia": "https?:\\/\\/(www\\.)?(vidia|vidbm|vidbem|vidbom|vidbeem|vedbom|vedboom|vedpom|extremenow|userload)",
 	"movs4U": "https?:\\/\\/(www\\.)?(movs4u)",
 	"asiaDrama": "https?:\\/\\/(www\\.)?(asiatvplayer)",
 	"myCima": "mycima",
