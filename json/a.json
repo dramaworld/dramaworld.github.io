@@ -37,7 +37,5 @@
 	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed|tubesb|playersb|embedsb|sbplay1|watchsb)",
 	"voe": "https?:\\/\\/(www\\.)?(voe.sx)",
 	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)",
-	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup)",
-	"userLoad": "https?:\\/\\/(www\\.)?(userload)"
-
+	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup)"
 }
