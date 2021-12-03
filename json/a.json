@@ -23,7 +23,7 @@
 	"moshahda": "https?:\\/\\/(www\\.)?(moshahda)",
 	"vidShare": "https?:\\/\\/(www\\.)?(vidshaaaaare|arabturk|arabveturk)",
 	"watchVideo": "https?:\\/\\/(www\\.)?(watchvideo)",
-	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|vidoba|vidroba|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare|vod540.xyz|vod66)",
+	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|vidoba|vidroba|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare)",
 	"vidia": "https?:\\/\\/(www\\.)?(vidia|vidbm|vidbem|vidbom|vidbeem|vedbom|vedboom|vedpom|extremenow)",
 	"movs4U": "https?:\\/\\/(www\\.)?(movs4u)",
 	"asiaDrama": "https?:\\/\\/(www\\.)?(asiatvplayer)",
@@ -37,5 +37,7 @@
 	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed|tubesb|playersb|embedsb|sbplay1|watchsb)",
 	"voe": "https?:\\/\\/(www\\.)?(voe.sx)",
 	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)",
-	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup)"
+	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup)",
+	"vod": "https?:\\/\\/(www\\.)?(vod540|vod66)"
+
 }
