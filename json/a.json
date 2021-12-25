@@ -31,7 +31,7 @@
 	"mycimaUppom": "upbam",
 	"kobaTube": "https?:\\/\\/(www\\.)?(kobatube|koobatube|kopatube|gvid)",
 	"letsupload": "https?:\\/\\/(www\\.)?(letsupload)",
-	"myVid": "https?:\\/\\/(www\\.)?(myviid)",
+	"myVid": "https?:\\/\\/(www\\.|w\\.)?(myviid)",
 	"vidspeed": "https?:\\/\\/(www\\.)?(vidspeeds|vidspeed)",
 	"samaUp": "https?:\\/\\/(www\\.)?(sama-share)",
 	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed|tubesb|playersb|embedsb|sbplay1|watchsb)",
