@@ -16,7 +16,7 @@
 	"sandUp": "https?:\\/\\/(www\\.)?(sandup)",
 	"govid": "https?:\\/\\/(www\\.)?(govid|goved|extremenow|extreamnow|vidbm|vidbem|vidbom|vidbeem|vedbom|vedboom|vedpom|vadbom|vidbam)",
 	"uqlaod": "https?:\\/\\/(www\\.)?(uqload)",
-	"akwam": "https?:\\/\\/(www\\.)?(akwam)",
+	"akwam": "https?:\\/\\/(www\\.|ar\\.)?(akwam)",
 	"vidbm": "https?:\\/\\/(www\\.)?(vidboooooom)",
 	"ydBox": "https?:\\/\\/(www\\.)?(youdbox)",
 	"videoBee": "https?:\\/\\/(www\\.)?(thevideobee)",
