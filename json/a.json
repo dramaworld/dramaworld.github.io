@@ -1,5 +1,5 @@
 {
-	"m3u8s": "vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vidhdr|vidoba|vidroba|asiatv|arabturk|arabveturk|moshahda|mwdy.cc|miravd.com|sendvid|vtube.to|vadshar|liiivideo|liivideo|vod540|vod66",
+	"m3u8s": "vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vidhdr|vidoba|vidroba|asiatv|arabturk|arabveturk|moshahda|mwdy.cc|miravd.com|sendvid|vtube.to|vadshar|liiivideo|liivideo|vod540|vod66|albrq.news",
 	"mp4upload": "https?:\\/\\/(www\\.)?(mp4upload)",
 	"filerio": "https?:\\/\\/(www\\.)?(filerio)",
 	"sendvid": "https?:\\/\\/(www\\.)?(sendvid)",
@@ -21,7 +21,7 @@
 	"ydBox": "https?:\\/\\/(www\\.)?(youdbox|yodbox)",
 	"videoBee": "https?:\\/\\/(www\\.)?(thevideobee)",
 	"moshahda": "https?:\\/\\/(www\\.)?(moshahda)",
-	"vidShare": "https?:\\/\\/(www\\.)?(vidshaaaaare|arabturk|arabveturk)",
+	"vidShare": "https?:\\/\\/(www\\.|v\\.)?(vidshaaaaare|arabturk|arabveturk|albrq)",
 	"watchVideo": "https?:\\/\\/(www\\.)?(watchvideo)",
 	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|vidoba|vidroba|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare|mwdy.cc|miravd.com|vtube.to|vadshar|liiivideo|liivideo|vod540|vod66)",
 	"vidia": "https?:\\/\\/(www\\.)?(vidia)",
