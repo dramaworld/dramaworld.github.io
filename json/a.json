@@ -43,6 +43,7 @@
 	"dailymotion": "https?:\\/\\/(www\\.)?(dailymotion)",
 	"mediafire": "https?:\\/\\/(www\\.)?(mediafire)",
 	"uptostream": "https?:\\/\\/(www\\.)?(uptostream|uptobox)",
-	"videopress": "https?:\\/\\/(www\\.)?(videopress)"
+	"videopress": "https?:\\/\\/(www\\.)?(videopress)",
+	"liiivideo": "https?:\\/\\/(www\\.)?(liiiiiiiiiiiiiiivideo)"
 
 }
