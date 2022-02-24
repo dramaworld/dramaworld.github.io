@@ -42,6 +42,7 @@
 	"mixdrop": "https?:\\/\\/(www\\.)?(mixdrop)",
 	"dailymotion": "https?:\\/\\/(www\\.)?(dailymotion)",
 	"mediafire": "https?:\\/\\/(www\\.)?(mediafire)",
-	"uptostream": "https?:\\/\\/(www\\.)?(uptostream|uptobox)"
+	"uptostream": "https?:\\/\\/(www\\.)?(uptostream|uptobox)",
+	"videopress": "https?:\\/\\/(www\\.)?(videopress)"
 
 }
