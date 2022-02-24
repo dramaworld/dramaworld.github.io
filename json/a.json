@@ -41,6 +41,7 @@
 	"vod": "https?:\\/\\/(www\\.)?(vooooooooooooood)",
 	"mixdrop": "https?:\\/\\/(www\\.)?(mixdrop)",
 	"dailymotion": "https?:\\/\\/(www\\.)?(dailymotion)",
-	"mediafire": "https?:\\/\\/(www\\.)?(mediafire)"
+	"mediafire": "https?:\\/\\/(www\\.)?(mediafire)",
+	"uptostream": "https?:\\/\\/(www\\.)?(uptostream|uptobox)"
 
 }
