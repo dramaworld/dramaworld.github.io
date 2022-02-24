@@ -14,7 +14,7 @@
 	"uppom": "https?:\\/\\/(www\\.|m\\.|up\\.)?(uppom|arabseed|seeeed|elbarq|uppoom|upbbom|uppbom|uppboom|upbem|upbam)",
 	"sevenUp": "https?:\\/\\/(www\\.)?(7-up)",
 	"sandUp": "https?:\\/\\/(www\\.)?(sandup)",
-	"govid": "https?:\\/\\/(www\\.)?(gooooooooovid)",
+	"govid": "https?:\\/\\/(www\\.)?(govid|goved|extremenow|extreamnow|vidbm|vidbem|vidbom|vidbeem|vedbom|vedboom|vedpom|vadbom|vidbam)",
 	"uqlaod": "https?:\\/\\/(www\\.)?(uqload)",
 	"akwam": "https?:\\/\\/(www\\.|ar\\.)?(akwam)",
 	"vidbm": "https?:\\/\\/(www\\.)?(vidboooooom)",
@@ -24,7 +24,7 @@
 	"vidShare": "https?:\\/\\/(www\\.|v\\.)?(arabturk|arabveturk|albrq|anafast|anamov|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare)",
 	"watchVideo": "https?:\\/\\/(www\\.)?(watchvideo)",
 	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|vidoba|vidroba|mwdy.cc|miravd.com|vtube.to|vadshar|vod540|vod66|liiivideo|liivideo)",
-	"vidia": "https?:\\/\\/(www\\.)?(vidia|govid|goved|extremenow|extreamnow|vidbm|vidbem|vidbom|vidbeem|vedbom|vedboom|vedpom|vadbom|vidbam)",
+	"vidia": "https?:\\/\\/(www\\.)?(vidia)",
 	"movs4U": "https?:\\/\\/(www\\.)?(movs4u)",
 	"asiaDrama": "https?:\\/\\/(www\\.)?(asiatvplayer)",
 	"myCima": "mycima",
@@ -39,6 +39,7 @@
 	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)",
 	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup)",
 	"vod": "https?:\\/\\/(www\\.)?(vooooooooooooood)",
-	"mixdrop": "https?:\\/\\/(www\\.)?(mixdrop)"
+	"mixdrop": "https?:\\/\\/(www\\.)?(mixdrop)",
+	"dailymotion": "https?:\\/\\/(www\\.)?(dailymotion)"
 
 }
