@@ -44,6 +44,7 @@
 	"mediafire": "https?:\\/\\/(www\\.)?(mediafire)",
 	"uptostream": "https?:\\/\\/(www\\.)?(uptostream|uptobox)",
 	"videopress": "https?:\\/\\/(www\\.)?(videopress)",
-	"liiivideo": "https?:\\/\\/(www\\.)?(liiiiiiiiiiiiiiivideo)"
+	"liiivideo": "https?:\\/\\/(www\\.)?(liiiiiiiiiiiiiiivideo)",
+	"vimeo": "https?:\\/\\/(www\\.)?(vimeo)"
 
 }
