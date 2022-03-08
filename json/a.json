@@ -45,7 +45,7 @@
 	"uptostream": "https?:\\/\\/(www\\.)?(uptostream|uptobox)",
 	"videopress": "https?:\\/\\/(www\\.)?(videopress)",
 	"liiivideo": "https?:\\/\\/(www\\.)?(liiiiiiiiiiiiiiivideo)",
-	"vimeo": "https?:\\/\\/(www\\.)?(vimeo)",
+	"vimeo": "https?:\\/\\/(www\\.)?(player.vimeo)",
 	"faselhd": "https?:\\/\\/(www\\.)?(faselhd)"
 
 }
