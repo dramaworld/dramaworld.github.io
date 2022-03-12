@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- SITE TITTLE -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>عالم الدراما</title>
+  
+  <!-- PLUGINS CSS STYLE -->
+  <!-- Bootstrap -->
+  <link href="plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <!-- themify icon -->
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+  <!-- Slick Carousel -->
+  <link href="plugins/slick/slick.css" rel="stylesheet">
+  <!-- Slick Carousel Theme -->
+  <link href="plugins/slick/slick-theme.css" rel="stylesheet">
+  
+  <!-- CUSTOM CSS -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- FAVICON -->
+  <link href="images/favicon.png" rel="shortcut icon">
+
+</head>
+
+<body class="body-wrapper">
+
+
+<nav class="navbar main-nav fixed-top navbar-expand-lg large">
+  <div class="container">
+      <a class="navbar-brand" href="#"><img src="images/d-logo.png" alt="logo"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="ti-menu text-white"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link scrollTo" href="#contact">تواصل معنا</a>
+        </li>
+      </ul>
+      </div>
+  </div>
+</nav>
+<!--=====================================
+=            Homepage Banner            =
+======================================-->
+
+<section class="banner bg-1" id="home">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 align-self-center">
+				<!-- Contents -->
+				<div class="content-block">
+					<h1>تطبيق عالم الدراما</h1>
+					<h3>أحدث الأفلام والمسلسلات الحصرية مجانا!</h3>
+					<!-- App Badge -->
+					<div class="app-badge">
+						<ul class="list-inline">
+							<li class="list-inline-item">
+								<a href="https://play.google.com/store/apps/details?id=com.alam.drama21" class="btn btn-download"><i class="ti-android"></i>
+									<div>التنزيل من<span>جوجل بلاي</span></div>
+								</a>
+							</li>
+							<li class="list-inline-item">
+								<a href="https://github.com/dramaworld/dramaworld.github.io/blob/master/app/DramaWorld_V2.3.apk?raw=true" class="btn btn-download"><i class="ti-download"></i>
+									<div>التنزيل من<span>رابط مباشر</span></div>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<h4 style="color:#FFFFFF;"><br>مميزات التطبيق 🌟</h4>
+					<h5 style="color:yellow;">☑️ مسلسلات وأفلام حصرية اجنبية و عربية و تركية و اسيوية بجودة عالية
+					<br>☑️ مشاهدة الأفلام و المسلسلات بجودات متعددة
+					<br>☑️ تصميم جميل ومميز وسهل الإستخدام
+					<br>☑️ يتم اضافة الحلقات اولا بأول
+					<br>☑️ يمكنك طلب مسلسل وابلاغ عن مشكلة
+					<br>☑️ يمكنك اضافة مسلسلاتك و افلامك المفضلة الى قائمة خاصة
+					<br>☑️ يمكنك تنزيل العروض إلى هاتفك لمشاهدتها لاحقا بدون انترنت
+					<br>☑️ البحث عن مسلسلاتك و افلامك المفضلة بكل سهولة
+					</h5>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<!-- App Image -->
+				<div class="image-block">
+					<img class="img-fluid phone-thumb" src="images/phones/app.jpg" alt="iphone-banner">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!--====  End of Homepage Banner  ====-->
+
+<!--============================
+=            Footer            =
+=============================-->
+
+<footer class="footer-main" id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 mr-auto">
+        <div class="footer-logo">
+          <img src="images/d-logo.png" alt="footer-logo">
+        </div>
+        <div class="copyright">
+          <p> جميع الحقوق محفوظة لـ<a href="#home"
+              target="_blank">عالم الدراما</a>
+            
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-6 text-lg-right">
+        <!-- Social Icons -->
+        <ul class="social-icons list-inline">
+          <li class="list-inline-item">
+            <a target="_blank" href="https://www.facebook.com/groups/3019086441651146/"><i class="text-primary ti-facebook"></i></a>
+          </li>
+          <li class="list-inline-item">
+            <a target="_blank" href="https://t.me/dramaworld20"><i class="text-primary ti-location-arrow"></i></a>
+          </li>
+          <li class="list-inline-item">
+            <a target="_blank" href="mailto:drama7157w@gmail.com"><i class="text-primary ti-email"></i></a>
+          </li>
+         
+        </ul>
+       
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+</body>
+
+</html>

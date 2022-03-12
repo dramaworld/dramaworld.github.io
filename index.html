@@ -1,140 +1,202 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
 <head>
-
-  <!-- SITE TITTLE -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>عالم الدراما</title>
-  
-  <!-- PLUGINS CSS STYLE -->
-  <!-- Bootstrap -->
-  <link href="plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
-  <!-- themify icon -->
-  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
-  <!-- Slick Carousel -->
-  <link href="plugins/slick/slick.css" rel="stylesheet">
-  <!-- Slick Carousel Theme -->
-  <link href="plugins/slick/slick-theme.css" rel="stylesheet">
-  
-  <!-- CUSTOM CSS -->
-  <link href="css/style.css" rel="stylesheet">
-
-  <!-- FAVICON -->
-  <link href="images/favicon.png" rel="shortcut icon">
-
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>عالم الدراما</title>
+    <link href="https://fonts.googleapis.com/css?family=Heebo:400,700|Oxygen:700" rel="stylesheet">
+    <link rel="stylesheet" href="dist/css/style.css">
+    <script src="https://unpkg.com/scrollreveal@4.0.5/dist/scrollreveal.min.js"></script>
 </head>
+<body class="is-boxed has-animations">
+    <div class="body-wrap boxed-container">
+        <header class="site-header text-light">
+            <div class="container">
+                <div class="site-header-inner">
+                    <div class="brand header-brand">
+                        <h1 class="m-0">
+                            <a href="#">
+								<img src="dist/images/dw.png" width="50" height="50" alt="Logo">
+                            </a>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </header>
 
-<body class="body-wrapper">
+        <main>
+            <section class="hero text-center text-light">
+				<div class="hero-bg"></div>
+				<div class="hero-particles-container">
+					<canvas id="hero-particles"></canvas>
+				</div>
+                <div class="container-sm">
+                    <div class="hero-inner">
+						<div class="hero-copy">
+	                        <h1 dir="rtl" lang="ar" class="hero-title mt-0">تطبيق عالم الدراما</h1>
+	                        <p dir="rtl" lang="ar" class="hero-paragraph">تطبيقك الأول لمشاهدة وتحميل الأفلام والمسلسلات المتنوعة مجانا!</p>
+	                        <div class="hero-cta">
+								<a dir="rtl" lang="ar" style="font-size:25px;" class="button button-primary button-wide-mobile" href="#appdown">تحميل التطبيق مجانا</a>
+							</div>
+							<br>
+							<div id ="appdown" class="hero-cta">
+								<div style="width:200px;margin-left:auto;margin-right:auto;">
+								<a href="https://play.google.com/store/apps/details?id=com.alam.aldrama22" target="_blank" rel="noopener noreferrer">
+								<img src="dist/images/gp.png" alt="">
+								</a>
+								</div>
+							</div>
+							<br>
+							<div class="hero-cta">
+							<a lang="ar" style="font-size:20px;" href="https://github.com/dramaworld/dramaworld.github.io/blob/master/app/DramaWorld_V3.0.apk?raw=true" target="_blank" rel="noopener noreferrer" class="button button-link"><img src="dist/images/d1.png" alt="">
+									تحميل من رابط مباشر
+							</a>
+							</div>
+							<br>
+							<div class="hero-cta">
+								<div style="width:200px;margin-left:auto;margin-right:auto;">
+								<a href="https://www.mediafire/" target="_blank" rel="noopener noreferrer">
+								<img src="dist/images/mf.png" alt="">
+								</a>
+								</div>
+							</div>
+							
+			
+						</div>
+						<div class="mockup-container">
+							<div class="mockup-bg">
+								<img src="dist/images/iphone-hero-bg.svg" alt="iPhone illustration">
+							</div>
+							<img class="device-mockup" src="dist/images/iphone-hero.jpg" alt="iPhone Hero">
+						</div>
+                    </div>
+                </div>
+            </section>
 
+			<section class="features-extended section">
+                <div class="features-extended-inner section-inner">
+					<div dir="rtl" lang="ar" class="features-extended-wrap">
+						<div class="container">
+							<div class="feature-extended">
+								<div class="feature-extended-image">
+									<div class="mockup-bg">
+										<img src="dist/images/iphone-feature-bg-01.svg" alt="iPhone Feature 01 illustration">
+									</div>
+									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-01.png" alt="iPhone Feature 01">
+								</div>
+								<div class="feature-extended-body is-revealing">
+									<h3 class="mt-0 mb-16">مكتبة كبيرة ومتنوعة!</h3>
+									<p class="m-0">شاهد العديد من الأفلام والمسلسلات الحصرية مع إمكانية طلب العروض في حال لم تجد ما تبحث عنه</p>
+								</div>
+							</div>
+							<div class="feature-extended">
+								<div class="feature-extended-image">
+									<div class="mockup-bg">
+										<img src="dist/images/iphone-feature-bg-02.svg" alt="iPhone Feature 02 illustration">
+									</div>
+									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-02.png" alt="iPhone Feature 02">
+								</div>
+								<div class="feature-extended-body is-revealing">
+									<h3 class="mt-0 mb-16">سيرفرات متعددة</h3>
+									<p class="m-0">إمكانية المشاهدة على عدة سيرفرات تدعم جميع سرعات الإنترنت</p>
+								</div>
+							</div>
+							<div class="feature-extended">
+								<div class="feature-extended-image">
+									<div class="mockup-bg">
+										<img src="dist/images/iphone-feature-bg-03.svg" alt="iPhone Feature 03 illustration">
+									</div>
+									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-03.png" alt="iPhone Feature 03">
+								</div>
+								<div class="feature-extended-body is-revealing">
+									<h3 class="mt-0 mb-16">استكمال المشاهدة</h3>
+									<p class="m-0">تابع جميع العروض من اخر مكان توقفت فيه تلقائيا</p>
+								</div>
+							</div>
+							<div class="feature-extended">
+								<div class="feature-extended-image">
+									<div class="mockup-bg">
+										<img src="dist/images/iphone-feature-bg-04.svg" alt="iPhone Feature 04 illustration">
+									</div>
+									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-04.png" alt="iPhone Feature 04">
+								</div>
+								<div class="feature-extended-body is-revealing">
+									<h3 class="mt-0 mb-16">التنزيل بأكثر من طريقة</h3>
+									<p class="m-0">حمل العروض واحفظها للمشاهدة بدون انترنت عن طريق برامج تنزيل سريعة</p>
+								</div>
+							</div>
+						</div>
+					</div>
+                </div>
+            </section>
+        </main>
 
-<nav class="navbar main-nav fixed-top navbar-expand-lg large">
-  <div class="container">
-      <a class="navbar-brand" href="#"><img src="images/d-logo.png" alt="logo"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="ti-menu text-white"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link scrollTo" href="#contact">تواصل معنا</a>
-        </li>
-      </ul>
-      </div>
-  </div>
-</nav>
-<!--=====================================
-=            Homepage Banner            =
-======================================-->
-
-<section class="banner bg-1" id="home">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 align-self-center">
-				<!-- Contents -->
-				<div class="content-block">
-					<h1>تطبيق عالم الدراما</h1>
-					<h3>أحدث الأفلام والمسلسلات الحصرية مجانا!</h3>
-					<!-- App Badge -->
-					<div class="app-badge">
-						<ul class="list-inline">
-							<li class="list-inline-item">
-								<a href="https://play.google.com/store/apps/details?id=com.alam.drama21" class="btn btn-download"><i class="ti-android"></i>
-									<div>التنزيل من<span>جوجل بلاي</span></div>
+		<footer class="site-footer">
+			<div class="footer-particles-container">
+				<canvas id="footer-particles"></canvas>
+			</div>
+			<div class="site-footer-top">
+				<section class="cta section text-light">
+					<div class="container-sm">
+						<div dir="rtl" lang="ar" class="cta-inner section-inner">
+							<div class="cta-header text-center">
+								<h2 class="section-title mt-0">والمزيد من الميزات..</h2>
+								<p class="section-paragraph">اكتشفها بنفسك الآن</p>
+								<div class="cta-cta">
+									<a style="font-size:25px;" class="button button-primary button-wide-mobile" href="#appdown">حمل التطبيق مجانا</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+			<div class="site-footer-bottom">
+				<div class="container">
+					<div class="site-footer-inner">
+						<div class="brand footer-brand">
+							<a href="#">
+								<img src="dist/images/logo.svg" alt="Venus logo">
+							</a>
+						</div>
+						<ul class="footer-links list-reset">
+							<li>
+								<a href="mailto:drama7157w@gmail.com">Contact</a>
+							</li>
+						</ul>
+						<ul class="footer-social-links list-reset">
+							<li>
+								<a href="https://www.facebook.com/groups/3019086441651146/" target="_blank" rel="noopener noreferrer">
+									<span class="screen-reader-text">Facebook</span>
+									<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+										<path d="M6.023 16L6 9H3V6h3V4c0-2.7 1.672-4 4.08-4 1.153 0 2.144.086 2.433.124v2.821h-1.67c-1.31 0-1.563.623-1.563 1.536V6H13l-1 3H9.28v7H6.023z" fill="#FFF"/>
+									</svg>
 								</a>
 							</li>
-							<li class="list-inline-item">
-								<a href="https://github.com/dramaworld/dramaworld.github.io/blob/master/app/DramaWorld_V2.3.apk?raw=true" class="btn btn-download"><i class="ti-download"></i>
-									<div>التنزيل من<span>رابط مباشر</span></div>
+							<li>
+								<a href="https://t.me/DramaWorld22" target="_blank" rel="noopener noreferrer">
+									<span class="screen-reader-text">Telegram</span>
+									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+										<path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a href="mailto:drama7157w@gmail.com">
+									<span class="screen-reader-text">Email</span>
+									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+										<path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
+									</svg>
 								</a>
 							</li>
 						</ul>
+						<div class="footer-copyright">&copy; 2022 DramaWorld, all rights reserved</div>
 					</div>
-					<h4 style="color:#FFFFFF;"><br>مميزات التطبيق 🌟</h4>
-					<h5 style="color:yellow;">☑️ مسلسلات وأفلام حصرية اجنبية و عربية و تركية و اسيوية بجودة عالية
-					<br>☑️ مشاهدة الأفلام و المسلسلات بجودات متعددة
-					<br>☑️ تصميم جميل ومميز وسهل الإستخدام
-					<br>☑️ يتم اضافة الحلقات اولا بأول
-					<br>☑️ يمكنك طلب مسلسل وابلاغ عن مشكلة
-					<br>☑️ يمكنك اضافة مسلسلاتك و افلامك المفضلة الى قائمة خاصة
-					<br>☑️ يمكنك تنزيل العروض إلى هاتفك لمشاهدتها لاحقا بدون انترنت
-					<br>☑️ البحث عن مسلسلاتك و افلامك المفضلة بكل سهولة
-					</h5>
 				</div>
 			</div>
-			<div class="col-md-4">
-				<!-- App Image -->
-				<div class="image-block">
-					<img class="img-fluid phone-thumb" src="images/phones/app.jpg" alt="iphone-banner">
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<!--====  End of Homepage Banner  ====-->
-
-<!--============================
-=            Footer            =
-=============================-->
-
-<footer class="footer-main" id="contact">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 mr-auto">
-        <div class="footer-logo">
-          <img src="images/d-logo.png" alt="footer-logo">
-        </div>
-        <div class="copyright">
-          <p> جميع الحقوق محفوظة لـ<a href="#home"
-              target="_blank">عالم الدراما</a>
-            
-          </p>
-        </div>
-      </div>
-      <div class="col-lg-6 text-lg-right">
-        <!-- Social Icons -->
-        <ul class="social-icons list-inline">
-          <li class="list-inline-item">
-            <a target="_blank" href="https://www.facebook.com/groups/3019086441651146/"><i class="text-primary ti-facebook"></i></a>
-          </li>
-          <li class="list-inline-item">
-            <a target="_blank" href="https://t.me/dramaworld20"><i class="text-primary ti-location-arrow"></i></a>
-          </li>
-          <li class="list-inline-item">
-            <a target="_blank" href="mailto:drama7157w@gmail.com"><i class="text-primary ti-email"></i></a>
-          </li>
-         
-        </ul>
-       
-      </div>
+        </footer>
     </div>
-  </div>
-</footer>
 
-
-  
+    <script src="dist/js/main.min.js"></script>
 </body>
-
 </html>
