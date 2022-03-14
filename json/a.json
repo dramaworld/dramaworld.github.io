@@ -46,6 +46,8 @@
 	"videopress": "https?:\\/\\/(www\\.)?(videopress)",
 	"liiivideo": "https?:\\/\\/(www\\.)?(liiiiiiiiiiiiiiivideo)",
 	"vimeo": "https?:\\/\\/(www\\.)?(player.vimeo)",
-	"faselhd": "https?:\\/\\/(www\\.)?(faselhd)"
+	"faselhd": "https?:\\/\\/(www\\.)?(faselhd)",
+	"allvid": "https?:\\/\\/(www\\.)?(allvid|allviid)",
+	"ydBox2": "https?:\\/\\/(www\\.)?(youdbox|yodbox)"
 
 }
