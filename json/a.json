@@ -1,5 +1,5 @@
 {
-	"m3u8s": "vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vidhdr|vidoba|vidroba|asiatv|arabturk|arabveturk|moshahda|mwdy.cc|miravd.com|sendvid|vtube.to|vadshar|liiivideo|liivideo|vod540|vod66|albrq.news|anafast|anamov|dailymotion|anaturk|allvid|allviid|faselhd",
+	"m3u8s": "vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vidhdr|vidoba|vidroba|asiatv|arabturk|arabveturk|moshahda|mwdy.cc|miravd.com|sendvid|vtube.to|vadshar|liiivideo|liivideo|vod540|vod66|albrq.news|anafast|anamov|dailymotion|anaturk|allvid|allviid|faselhd|yandex",
 	"mp4upload": "https?:\\/\\/(www\\.)?(mp4upload)",
 	"filerio": "https?:\\/\\/(www\\.)?(filerio)",
 	"sendvid": "https?:\\/\\/(www\\.)?(sendvid)",
@@ -50,6 +50,7 @@
 	"allvid": "https?:\\/\\/(www\\.)?(allvid|allviid)",
 	"ydBox2": "https?:\\/\\/(www\\.)?(youdbox|yodbox)",
 	"cnowh": "https://cimanow.cc/",
-	"cnow": "cimanow.net"
+	"cnow": "cimanow.net",
+	"yandex": "disk.yandex.ru"
 
 }
