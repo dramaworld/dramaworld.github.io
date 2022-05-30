@@ -50,6 +50,6 @@
 	"allvid": "https?:\\/\\/(www\\.)?(allvid|allviid)",
 	"ydBox2": "https?:\\/\\/(www\\.)?(youdbox|yodbox)",
 	"cnowh": "https://cimanow.cc/",
-	"cnow": "https?:\\/\\/(www\\.)?(cimanow.net)"
+	"cnow": "cimanow.net"
 
 }
