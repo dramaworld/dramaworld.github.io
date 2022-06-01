@@ -21,7 +21,7 @@
 	"ydBox": "https?:\\/\\/(www\\.)?(youuuuuuudbox)",
 	"videoBee": "https?:\\/\\/(www\\.)?(thevideobee)",
 	"moshahda": "https?:\\/\\/(www\\.)?(moshahda)",
-	"vidShare": "https?:\\/\\/(www\\.|v\\.)?(arabturk|arabveturk|albrq|anafast|anamov|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare|anaturk|vidoba|vidroba)",
+	"vidShare": "https?:\\/\\/(www\\.|v\\.)?(arabturk|arabveturk|albrq|anafast|anamov|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare|anaturk|vidoba|vidroba|vidmoly.to)",
 	"watchVideo": "https?:\\/\\/(www\\.)?(watchvideo)",
 	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|mwdy.cc|miravd.com|vtube.to|vadshar|vod540|vod66|liiivideo|liivideo)",
 	"vidia": "https?:\\/\\/(www\\.)?(vidia)",
@@ -34,7 +34,7 @@
 	"myVid": "https?:\\/\\/(www\\.|w\\.)?(myviid)",
 	"vidspeed": "https?:\\/\\/(www\\.)?(vidspeeds|vidspeed)",
 	"samaUp": "https?:\\/\\/(www\\.)?(sama-share)",
-	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed|tubesb|playersb|embedsb|sbplay1|watchsb|viewsb|vidlo.us)",
+	"streamSB": "https?:\\/\\/(www\\.)?(streamsb|sbembed|tubesb|playersb|embedsb|sbplay1|watchsb|viewsb)",
 	"voe": "https?:\\/\\/(www\\.)?(voe.sx)",
 	"vidfaster": "https?:\\/\\/(www\\.)?(vidfaster)",
 	"hdUp": "https?:\\/\\/(www\\.)?(hdup7|hdup3|hdup|film77)",
@@ -53,7 +53,9 @@
 	"cnow": "cimanow.net",
 	"yandex": "disk.yandex",
 	"asiatvh": "https://asia2tv.cn/",
+	"cclubh": "https://cima-club.vip/",
+	"asiawikih": "https://asiawiki.co/",
 	"asiatv": "https?:\\/\\/(www\\.)?(asia2tv)",
-	"vidlo": "https?:\\/\\/(www\\.)?(vidlooooooooo)"
+	"vidlo": "https?:\\/\\/(www\\.)?(vidlo.us)"
 
 }
