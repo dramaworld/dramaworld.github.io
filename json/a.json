@@ -1,5 +1,5 @@
 {
-	"m3u8s": "vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vidhdr|vidoba|vidroba|asiatv|arabturk|arabveturk|moshahda|mwdy.cc|miravd.com|sendvid|vtube.to|vadshar|liiivideo|liivideo|vod540|vod66|albrq.news|anafast|anamov|dailymotion|anaturk|allvid|allviid|faselhd|disk.yandex|asia2tv",
+	"m3u8s": "vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vidhdr|vidoba|vidroba|asiatv|arabturk|arabveturk|moshahda|mwdy.cc|miravd.com|sendvid|vtube.to|vadshar|liiivideo|liivideo|vod540|vod66|albrq.news|anafast|anamov|dailymotion|anaturk|allvid|allviid|faselhd",
 	"mp4upload": "https?:\\/\\/(www\\.)?(mp4upload)",
 	"filerio": "https?:\\/\\/(www\\.)?(filerio)",
 	"sendvid": "https?:\\/\\/(www\\.)?(sendvid)",
@@ -21,7 +21,7 @@
 	"ydBox": "https?:\\/\\/(www\\.)?(youuuuuuudbox)",
 	"videoBee": "https?:\\/\\/(www\\.)?(thevideobee)",
 	"moshahda": "https?:\\/\\/(www\\.)?(moshahda)",
-	"vidShare": "https?:\\/\\/(www\\.|v\\.)?(arabturk|arabveturk|albrq|anafast|anamov|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare|anaturk|vidoba|vidroba|vidmoly.to)",
+	"vidShare": "https?:\\/\\/(www\\.|v\\.)?(arabturk|arabveturk|albrq|anafast|anamov|vidshare|vidshar|vidshaar|vedshar|vedshaar|vedsharr|vedshare|anaturk|vidoba|vidroba)",
 	"watchVideo": "https?:\\/\\/(www\\.)?(watchvideo)",
 	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|mwdy.cc|miravd.com|vtube.to|vadshar|vod540|vod66|liiivideo|liivideo)",
 	"vidia": "https?:\\/\\/(www\\.)?(vidia)",
@@ -48,15 +48,6 @@
 	"vimeo": "https?:\\/\\/(www\\.)?(player.vimeo)",
 	"faselhd": "https?:\\/\\/(www\\.)?(faselhd)",
 	"allvid": "https?:\\/\\/(www\\.)?(allvid|allviid)",
-	"ydBox2": "https?:\\/\\/(www\\.)?(youdbox|yodbox)",
-	"cnowh": "https://cimanow.cc/",
-	"cnow": "cimanow.net",
-	"yandex": "disk.yandex",
-	"asiatvh": "https://asia2tv.cn/",
-	"cclubh": "https://cima-club.vip/",
-	"asiawikih": "https://asiawiki.co/",
-	"mvidoo": "https?:\\/\\/(www\\.)?(mvidoo)",
-	"asiatv": "https?:\\/\\/(www\\.)?(asia2tv)",
-	"vidlo": "https?:\\/\\/(www\\.)?(vidlo.us)"
+	"ydBox2": "https?:\\/\\/(www\\.)?(youdbox|yodbox)"
 
 }
